@@ -36,7 +36,7 @@
 ## Project Structure
 
 ```
-quakex/
+earthquake-prediction-using-machine-learning/
 ├── app.py                          # Main Streamlit application
 ├── lightgbm_earthquake_model.pkl   # Trained LightGBM model
 ├── requirements.txt                # Dependencies
@@ -51,8 +51,8 @@ quakex/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/quakex.git
-cd quakex
+git clone https://github.com/arpita-prasad/earthquake-prediction-using-machine-learning.git
+cd earthquake-prediction-using-machine-learning
 ```
 
 ### 2. Install dependencies
