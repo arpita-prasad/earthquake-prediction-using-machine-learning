@@ -3,5 +3,5 @@ lightgbm
 pandas
 numpy
 plotly
-streamlit
+streamlit==1.42.0
 joblib
