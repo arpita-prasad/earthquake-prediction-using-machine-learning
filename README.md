@@ -9,6 +9,11 @@
 
 ---
 
+## Live Demo
+🔗 https://quakex.streamlit.app
+
+---
+
 ## Features
 
 - **Magnitude Prediction** – Predicts earthquake magnitude using a trained LightGBM model
